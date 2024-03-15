@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "home": "https://dattasaiGit.github.io/mswd",
+  "home": "https://dattasaigit.github.io/mswd",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.11.1",
